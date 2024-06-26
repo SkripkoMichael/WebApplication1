@@ -1,0 +1,46 @@
+﻿@using WebApplication1.Domain.Entities
+@using WebApplication1.Blazor.Services
+@implements IDisposable
+@rendermode InteractiveServer
+
+<h3>Инструменты</h3>
+@if (ProductService.Products != null && ProductService.Products.Count() != 0)
+{
+    <table class="table table-striped">
+        <thead>
+        <th>Название</th>
+        <th></th>
+            @foreach (var item in ProductService.Products)
+            {
+            <tr>
+                <td>@item.Name</td>
+                <td>
+                    <button class="btn btn-outline-dark"
+                            @onclick="@(()=>OnInstSelected(item.Id))">
+                        Подробно
+                    </button>
+                </td>
+            </tr>
+            }
+        </thead>
+    </table>
+}
+
+@code {
+    [CascadingParameter]
+    public IProductService<MusInstruments> ProductService { get; set; }
+    [Parameter]
+    public EventCallback<int> InstSelected { get; set; }
+    protected override async Task OnInitializedAsync()
+    {
+        ProductService.ListChanged += StateHasChanged;
+    }
+    public async void OnInstSelected(int id)
+    {
+        await InstSelected.InvokeAsync(id);
+    }
+    public void Dispose()
+    {
+        ProductService.ListChanged -= StateHasChanged;
+    }
+}

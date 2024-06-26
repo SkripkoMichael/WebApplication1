@@ -1,0 +1,19 @@
+﻿@using WebApplication1.Domain.Entities
+
+@if (Inst != null)
+{
+    <div class="card mt-5" style="width: 18rem;">
+        <img src="@Inst.Image" class="card-img-top" alt="...">
+        <div class="card-body">
+            <h5 class="card-title">@Inst.Name</h5>
+            <p class="card-text">@Inst.Description</p>
+            <h4 class="badge bg-info">@Inst.Price руб.</h4>
+        </div>
+    </div>
+}
+@code {
+    [Parameter]
+    public MusInstruments Inst { get; set; }
+    [Parameter]
+    public EventCallback<MusInstruments> InstChanged { get; set; }
+}

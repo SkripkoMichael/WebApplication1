@@ -1,0 +1,6 @@
+﻿@using WebApplication1.Domain.Models
+@model Cart
+<a asp-action="Index" asp-controller="Cart" class="navbar-text ms-auto">
+    @Model.TotalPrice руб. <i class="fas fa-shopping-cart"></i>
+    (@Model.Count)
+</a>

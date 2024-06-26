@@ -1,0 +1,30 @@
+﻿@page "/products"
+
+@using WebApplication1.Domain.Entities
+@using WebApplication1.Domain.Models
+@using WebApplication1.Blazor.Components.ProductComponents
+@using WebApplication1.Blazor.Services
+@rendermode InteractiveServer
+
+
+<CascadingValue Value="ProductService">
+    <InstList InstSelected="ShowDetails" />
+    <Pager />
+</CascadingValue>
+<InstDetails Inst="SelectedInst" />
+
+@code {
+
+    [Inject] IProductService<MusInstruments> ProductService { get; set; }
+
+    [Parameter]
+    public MusInstruments SelectedInst { get; set; }
+    protected override async Task OnInitializedAsync()
+    {
+        await ProductService.GetInst();
+    }
+    void ShowDetails(int id)
+    {
+        SelectedInst = ProductService.Products.First(d => d.Id == id);
+    }
+}

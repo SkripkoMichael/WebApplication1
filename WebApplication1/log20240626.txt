@@ -1,0 +1,9 @@
+2024-06-26 21:06:27.440 +03:00 [INF] Hello из метода Index контроллера Home!
+2024-06-26 21:19:32.592 +03:00 [INF] Hello из метода Index контроллера Home!
+2024-06-26 21:19:35.949 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.woff2 returns404
+2024-06-26 21:19:35.969 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.woff returns404
+2024-06-26 21:19:35.976 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.ttf returns404
+2024-06-26 21:19:38.741 +03:00 [INF] -- Request /Images/drums.jpg returns404
+2024-06-26 21:19:38.779 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.woff2 returns404
+2024-06-26 21:19:38.788 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.woff returns404
+2024-06-26 21:19:38.800 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.ttf returns404

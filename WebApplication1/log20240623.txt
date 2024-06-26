@@ -1,0 +1,144 @@
+2024-06-23 22:04:46.602 +03:00 [INF] Hello из метода Index контроллера Home!
+2024-06-23 22:09:04.213 +03:00 [INF] Hello из метода Index контроллера Home!
+2024-06-23 22:09:08.127 +03:00 [INF] Hello из метода Index контроллера Home!
+2024-06-23 22:09:20.297 +03:00 [INF] Hello из метода Index контроллера Home!
+2024-06-23 22:13:36.089 +03:00 [INF] Hello из метода Index контроллера Home!
+2024-06-23 22:14:25.920 +03:00 [INF] Hello из метода Index контроллера Home!
+2024-06-23 22:18:41.045 +03:00 [INF] Hello из метода Index контроллера Home!
+2024-06-23 22:18:41.417 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.woff2 returns404
+2024-06-23 22:18:41.492 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.woff returns404
+2024-06-23 22:18:41.648 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.ttf returns404
+2024-06-23 22:18:45.381 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.woff2 returns404
+2024-06-23 22:18:45.416 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.woff returns404
+2024-06-23 22:18:45.444 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.ttf returns404
+2024-06-23 22:19:33.502 +03:00 [INF] Hello из метода Index контроллера Home!
+2024-06-23 22:19:33.818 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.woff2 returns404
+2024-06-23 22:19:34.060 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.woff returns404
+2024-06-23 22:19:34.075 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.ttf returns404
+2024-06-23 22:19:40.603 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.woff2 returns404
+2024-06-23 22:19:40.795 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.woff returns404
+2024-06-23 22:19:40.802 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.ttf returns404
+2024-06-23 22:19:45.319 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.woff2 returns404
+2024-06-23 22:19:45.338 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.woff returns404
+2024-06-23 22:19:45.345 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.ttf returns404
+2024-06-23 22:25:23.757 +03:00 [INF] Hello из метода Index контроллера Home!
+2024-06-23 22:25:24.147 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.woff2 returns404
+2024-06-23 22:25:24.381 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.woff returns404
+2024-06-23 22:25:24.390 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.ttf returns404
+2024-06-23 22:25:27.839 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.woff2 returns404
+2024-06-23 22:25:28.060 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.woff returns404
+2024-06-23 22:25:28.073 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.ttf returns404
+2024-06-23 22:25:33.145 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.woff2 returns404
+2024-06-23 22:25:33.333 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.woff returns404
+2024-06-23 22:25:33.358 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.ttf returns404
+2024-06-23 22:25:36.707 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.woff2 returns404
+2024-06-23 22:25:36.726 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.woff returns404
+2024-06-23 22:25:36.733 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.ttf returns404
+2024-06-23 22:26:30.536 +03:00 [INF] Hello из метода Index контроллера Home!
+2024-06-23 22:26:30.953 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.woff2 returns404
+2024-06-23 22:26:31.166 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.woff returns404
+2024-06-23 22:26:31.181 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.ttf returns404
+2024-06-23 22:26:38.671 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.woff2 returns404
+2024-06-23 22:26:38.898 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.woff returns404
+2024-06-23 22:26:38.907 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.ttf returns404
+2024-06-23 22:27:39.901 +03:00 [INF] Hello из метода Index контроллера Home!
+2024-06-23 22:27:40.190 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.woff2 returns404
+2024-06-23 22:27:40.419 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.woff returns404
+2024-06-23 22:27:40.432 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.ttf returns404
+2024-06-23 22:27:44.477 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.woff2 returns404
+2024-06-23 22:27:44.695 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.woff returns404
+2024-06-23 22:27:44.704 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.ttf returns404
+2024-06-23 22:27:45.686 +03:00 [INF] -- Request /Cart/add/1 returns302
+2024-06-23 22:27:45.994 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.woff2 returns404
+2024-06-23 22:27:46.010 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.woff returns404
+2024-06-23 22:27:46.016 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.ttf returns404
+2024-06-23 22:27:47.670 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.woff2 returns404
+2024-06-23 22:27:47.682 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.woff returns404
+2024-06-23 22:27:47.688 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.ttf returns404
+2024-06-23 22:28:54.196 +03:00 [INF] Hello из метода Index контроллера Home!
+2024-06-23 22:28:54.522 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.woff2 returns404
+2024-06-23 22:28:54.749 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.woff returns404
+2024-06-23 22:28:54.756 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.ttf returns404
+2024-06-23 22:29:29.257 +03:00 [INF] Hello из метода Index контроллера Home!
+2024-06-23 22:29:29.543 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.woff2 returns404
+2024-06-23 22:29:29.774 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.woff returns404
+2024-06-23 22:29:29.788 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.ttf returns404
+2024-06-23 22:29:33.594 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.woff2 returns404
+2024-06-23 22:29:33.796 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.woff returns404
+2024-06-23 22:29:33.806 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.ttf returns404
+2024-06-23 22:29:35.100 +03:00 [INF] -- Request /eeee returns404
+2024-06-23 22:29:35.294 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.woff2 returns404
+2024-06-23 22:29:35.307 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.woff returns404
+2024-06-23 22:29:35.316 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.ttf returns404
+2024-06-23 22:29:37.448 +03:00 [INF] -- Request /Catalog/Images/Guitar.jpg returns404
+2024-06-23 22:29:37.642 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.woff2 returns404
+2024-06-23 22:29:37.652 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.woff returns404
+2024-06-23 22:29:37.660 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.ttf returns404
+2024-06-23 22:29:40.586 +03:00 [INF] -- Request /Catalog/Images/Sint.jpg returns404
+2024-06-23 22:29:40.602 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.woff2 returns404
+2024-06-23 22:29:40.779 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.woff returns404
+2024-06-23 22:29:40.785 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.ttf returns404
+2024-06-23 22:30:22.000 +03:00 [INF] Hello из метода Index контроллера Home!
+2024-06-23 22:30:22.315 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.woff2 returns404
+2024-06-23 22:30:22.547 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.woff returns404
+2024-06-23 22:30:22.557 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.ttf returns404
+2024-06-23 22:30:29.111 +03:00 [INF] -- Request /Identity/Account/Logout returns302
+2024-06-23 22:30:29.118 +03:00 [INF] Hello из метода Index контроллера Home!
+2024-06-23 22:30:43.189 +03:00 [INF] -- Request /Identity/Account/Login returns302
+2024-06-23 22:30:43.762 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.woff2 returns404
+2024-06-23 22:30:43.952 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.woff returns404
+2024-06-23 22:30:43.963 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.ttf returns404
+2024-06-23 22:30:47.447 +03:00 [INF] -- Request /eeee returns404
+2024-06-23 22:30:47.643 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.woff2 returns404
+2024-06-23 22:30:47.653 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.woff returns404
+2024-06-23 22:30:47.662 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.ttf returns404
+2024-06-23 22:30:48.867 +03:00 [INF] -- Request /u returns404
+2024-06-23 22:30:49.059 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.woff2 returns404
+2024-06-23 22:30:49.071 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.woff returns404
+2024-06-23 22:30:49.093 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.ttf returns404
+2024-06-23 22:30:52.344 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.woff2 returns404
+2024-06-23 22:30:52.358 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.woff returns404
+2024-06-23 22:30:52.548 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.ttf returns404
+2024-06-23 22:31:22.016 +03:00 [INF] -- Request /Admin/Create returns302
+2024-06-23 22:31:22.305 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.woff2 returns404
+2024-06-23 22:31:22.318 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.woff returns404
+2024-06-23 22:31:22.327 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.ttf returns404
+2024-06-23 22:31:33.842 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.woff2 returns404
+2024-06-23 22:31:33.878 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.woff returns404
+2024-06-23 22:31:33.884 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.ttf returns404
+2024-06-23 22:31:40.446 +03:00 [INF] Hello из метода Index контроллера Home!
+2024-06-23 22:31:40.684 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.woff2 returns404
+2024-06-23 22:31:40.699 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.woff returns404
+2024-06-23 22:31:40.705 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.ttf returns404
+2024-06-23 22:34:08.634 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.woff2 returns404
+2024-06-23 22:34:08.819 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.woff returns404
+2024-06-23 22:34:08.827 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.ttf returns404
+2024-06-23 22:34:10.257 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.woff2 returns404
+2024-06-23 22:34:10.276 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.woff returns404
+2024-06-23 22:34:10.282 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.ttf returns404
+2024-06-23 22:34:44.838 +03:00 [INF] -- Request /Admin/Create returns302
+2024-06-23 22:34:44.904 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.woff2 returns404
+2024-06-23 22:34:44.912 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.woff returns404
+2024-06-23 22:34:44.918 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.ttf returns404
+2024-06-23 22:35:15.740 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.woff2 returns404
+2024-06-23 22:35:15.759 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.woff returns404
+2024-06-23 22:35:15.927 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.ttf returns404
+2024-06-23 22:36:25.057 +03:00 [INF] Hello из метода Index контроллера Home!
+2024-06-23 22:36:25.358 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.woff2 returns404
+2024-06-23 22:36:25.584 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.woff returns404
+2024-06-23 22:36:25.590 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.ttf returns404
+2024-06-23 22:36:27.777 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.woff2 returns404
+2024-06-23 22:36:27.991 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.woff returns404
+2024-06-23 22:36:27.999 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.ttf returns404
+2024-06-23 22:36:33.089 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.woff2 returns404
+2024-06-23 22:36:33.110 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.woff returns404
+2024-06-23 22:36:33.121 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.ttf returns404
+2024-06-23 22:36:34.972 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.woff2 returns404
+2024-06-23 22:36:35.008 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.woff returns404
+2024-06-23 22:36:35.034 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.ttf returns404
+2024-06-23 22:36:37.711 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.woff2 returns404
+2024-06-23 22:36:37.722 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.woff returns404
+2024-06-23 22:36:37.729 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.ttf returns404
+2024-06-23 22:36:39.033 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.woff2 returns404
+2024-06-23 22:36:39.215 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.woff returns404
+2024-06-23 22:36:39.220 +03:00 [INF] -- Request /lib/font-awesome/webfonts/fa-solid-900.ttf returns404
